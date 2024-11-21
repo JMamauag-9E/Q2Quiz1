@@ -1,0 +1,22 @@
+body {
+	background-image: linear-gradient(to right, navy, maroon, white, yellow);
+	color: white;
+	font-family: "Georgia", Serif;
+}
+
+.container {
+	background-color: #ffb382;
+}
+
+.header {
+	font-family: "Fantasy", Papyrus;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+}
+
+img {
+	width: 100px;
+}
+
